@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Vetri
 
-ASP >NET Developer @ meenTech solutions
+ASP .NET Developer @ meenTech solutions
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/vetrivelcoder)
 
